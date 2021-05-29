@@ -1,0 +1,7 @@
+C:\Users\Nikita\source\repos\multiplyProject\multiplyProject\bin\Debug\multiplyProject.exe.config
+C:\Users\Nikita\source\repos\multiplyProject\multiplyProject\bin\Debug\multiplyProject.exe
+C:\Users\Nikita\source\repos\multiplyProject\multiplyProject\bin\Debug\multiplyProject.pdb
+C:\Users\Nikita\source\repos\multiplyProject\multiplyProject\obj\Debug\multiplyProject.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\multiplyProject\multiplyProject\obj\Debug\multiplyProject.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\multiplyProject\multiplyProject\obj\Debug\multiplyProject.exe
+C:\Users\Nikita\source\repos\multiplyProject\multiplyProject\obj\Debug\multiplyProject.pdb
